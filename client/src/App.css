@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+
+h1 {
+  /* color: #D3BAC5; */
+  /* font-family: "Josefin Sans", sans-serif; */
+}
+
+/* h2  {
+  color: #00032A;
+} */
+
+/* h3  {
+  color: #484c61;
+} */
+
+
+img {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  opacity: 0.8;
+}
